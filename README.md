@@ -11,8 +11,8 @@ Following the release of the [Do Not Draw a Penis project](https://www.donotdraw
 
 Similar to Google's QuickDraw dataset, we offer the data in the following forms. More information on how to interpret this data can be found [here](https://github.com/googlecreativelab/quickdraw-dataset#the-raw-moderated-dataset).
 
-- [Raw files](penis-raw) (`.ndjson`)
-- [Simplified drawings files](penis-simplified) (`.ndjson`)
+- [Raw files](penis-raw.ndjson) (`.ndjson`)
+- [Simplified drawings files](penis-simplified.ndjson) (`.ndjson`)
 
 ## Relevant Locations
 
