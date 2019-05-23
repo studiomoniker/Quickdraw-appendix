@@ -16,8 +16,8 @@ Similar to Google's QuickDraw dataset, we offer the data in the following forms.
 
 ## Relevant Locations
 
-- Google QuickDraw Dataset
-- Data Collection - Do Not Draw a Penis project
+- [Google's QuickDraw Dataset](https://github.com/googlecreativelab/quickdraw-dataset)
+- [Data Collection - Do Not Draw a Penis project](https://www.donotdrawapenis.com)
 
 ## Technologies
 
