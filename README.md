@@ -3,9 +3,9 @@
 ![grid](grid.jpg)
 In 2018 Google open-sourced the [Quickdraw data set](https://github.com/googlecreativelab/quickdraw-dataset). “The world's largest doodling data set”. The set consists of 345 categories and over 15 million drawings. For obvious reasons the data set was missing a few specific categories that people seem to enjoy drawing. This made us at [Moniker](https://studiomoniker.com) think about the moral reality big tech companies are imposing on our global community and that most people willingly accept this. Therefore we decided to publish an appendix to the Google Quickdraw data set.
 
-So far we have collected 10K doodles formatted the same way as Google's dataset. We are happy to announce you can download them here. We have collected these using initially using [Amazon's Mechanical Turk](https://www.mturk.com/), which was drudgingly audited by the staff here at Moniker.
+So far we have collected 25,000 doodles formatted the same way as Google's dataset. We are happy to announce you can download them here. We have collected the first 10,000 doodles using [Amazon's Mechanical Turk](https://www.mturk.com/), which were drudgingly audited by the staff here at Moniker.
 
-Following the release of the [Do Not Draw a Penis project](https://www.donotdrawapenis.com) we will also update the dataset with user contributed doodles... The Do Not Draw a Penis project functions as an agent to collect inappropriate doodles from people who are not willing to stay within the moral guidelines set by our social network providers.
+In June of 2019 we released the [Do Not Draw a Penis project](https://www.donotdrawapenis.com) to collect inappropriate doodles from people who are not willing to stay within the moral guidelines set by our social network providers. It has helped us to collect another 250,000 doodles of which we have marked 15,000 suitable for this appendix.
 
 ## Dataset's provided
 
